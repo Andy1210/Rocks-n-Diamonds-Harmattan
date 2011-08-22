@@ -1,0 +1,5 @@
+S 15 com.nokia.maemo H 40 7d4e07151d89edd428fd1640057a613f41b9b637 R 57 usr/share/themes/base/meegotouch/icons/rocksndiamonds.png
+S 15 com.nokia.maemo H 40 667d980eb940cc4fbbab59b510d910094e32ac6c R 40 home/user/.rocksndiamonds/setup_tmp.conf
+S 15 com.nokia.maemo H 40 c6f9f6d7d496887d3b2a59331214a027c5a77e0a R 33 opt/rocksndiamonds/rocksndiamonds
+S 15 com.nokia.maemo H 40 97003e745292e1377df9527b7a7b93dae683730f R 55 opt/rocksndiamonds/graphics/gfx_classic/RocksScreen.pcx
+S 15 com.nokia.maemo H 40 f94e2ddcdd26bf0cbcb27e252f6440acc0b5c7fd R 41 var/lib/dpkg/info/rocksndiamonds.postinst

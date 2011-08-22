@@ -1,0 +1,2 @@
+shlibs:Depends=libc6 (>= 2.4), libgcc1 (>= 1:4.1.1), libsdl-image1.2 (>= 1.2.10), libsdl-net1.2, libsdl1.2, libsmpeg0
+misc:Depends=

@@ -1,0 +1,14 @@
+[Desktop Entry]
+
+Encoding=UTF-8
+
+Version=1.0
+
+Type=Application
+
+Name=Rocks'n'Diamonds
+Icon=rocksndiamonds
+Exec=/opt/rocksndiamonds/rocksndiamonds
+
+X-Osso-Type=application/x-executable
+

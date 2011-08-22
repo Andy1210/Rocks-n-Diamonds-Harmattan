@@ -1,0 +1,3 @@
+Custom elements can be defined to do a ton of things, more than this humble
+space can describe. Just be aware that the code doesn't care from level to
+level in a set.

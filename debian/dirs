@@ -1,0 +1,11 @@
+opt/rocksndiamonds
+opt/rocksndiamonds/docs
+opt/rocksndiamonds/graphics
+opt/rocksndiamonds/levels
+opt/rocksndiamonds/music
+opt/rocksndiamonds/scores
+opt/rocksndiamonds/sounds
+home/user/.rocksndiamonds
+/usr/share/applications/
+/usr/share/themes/base/meegotouch/icons/
+

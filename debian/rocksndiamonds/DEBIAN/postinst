@@ -1,0 +1,13 @@
+#!/bin/sh
+chmod +x /opt/rocksndiamonds/rocksndiamonds
+
+if [ ! -e /home/user/.rocksndiamonds/setup.conf ]
+then
+    mv /home/user/.rocksndiamonds/setup_tmp.conf /home/user/.rocksndiamonds/setup.conf
+else
+    rm /home/user/.rocksndiamonds/setup_tmp.conf
+fi
+
+
+chmod -R 777 /opt/rocksndiamonds/
+chmod -R 777 /home/user/.rocksndiamonds/
